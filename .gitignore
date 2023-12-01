@@ -1,2 +1,4 @@
 data/*
 best*
+*.png
+*.DS_Store
