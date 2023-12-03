@@ -1,0 +1,7 @@
+gen,evals,avg,std,min,max
+<torch._C.Generator object at 0x16dcc59d0>,100,nan,nan,nan,nan
+<torch._C.Generator object at 0x16dcc59d0>,100,nan,nan,nan,nan
+<torch._C.Generator object at 0x16dcc59d0>,100,nan,nan,nan,nan
+<torch._C.Generator object at 0x16dcc59d0>,100,nan,nan,nan,nan
+<torch._C.Generator object at 0x16dcc59d0>,100,nan,nan,nan,nan
+<torch._C.Generator object at 0x16dcc59d0>,100,nan,nan,nan,nan
