@@ -1,6 +1,7 @@
 data/*
 best*
-*.png
+figures/*
+checkpoints/*
 !adam-memetic-comparison.png
 !accuracy_curve.png
 !loss_curve.png
