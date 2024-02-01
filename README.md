@@ -10,3 +10,7 @@ The code for the results presented in "Large Scale Optimisation with Adaptive St
 2. ensure that you have the necessary directories set up in order to "saving" portion of the code, otherwise you can adapt the code to save at your specified location, or you can choose not to run the saving portion of the code at all.
 
 3. enjoy
+
+### Grade: 95%
+
+Not bad for a research project completed entirely solo, meant for a team of 3!
