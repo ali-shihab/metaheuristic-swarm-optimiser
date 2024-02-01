@@ -7,4 +7,5 @@ checkpoints/*
 !loss_curve.png
 !fits.png
 *.DS_Store
+!ci_cw_final.ipynb
 URN6564898_CI_CW.pdf
