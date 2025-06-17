@@ -13,4 +13,4 @@ The code for the results presented in "Large Scale Optimisation with Adaptive St
 
 ### Grade: 95%
 
-Not bad for a research project completed entirely solo, meant for a team of 3!
+Placed among the top of my cohort despite being the only single-member team (all others were 3-member teams)
